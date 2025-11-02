@@ -1,5 +1,4 @@
 # Java Documentation
-
 Javadoc is a powerful tool used to generate documentation from comments in Java source code.
 
 ## Class-level Tags:
